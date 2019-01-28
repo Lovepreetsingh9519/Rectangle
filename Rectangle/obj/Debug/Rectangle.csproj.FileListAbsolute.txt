@@ -1,0 +1,9 @@
+C:\Users\love\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\love\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\love\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\love\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\love\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\love\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
+C:\Users\love\source\repos\Rectangle\Rectangle\bin\Debug\nunit.framework.dll
+C:\Users\love\source\repos\Rectangle\Rectangle\bin\Debug\nunit.framework.xml
+C:\Users\love\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CopyComplete
